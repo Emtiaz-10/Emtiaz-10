@@ -1,6 +1,7 @@
 <!-- PROFILE README for Emtiaz-10 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical" height="160" />
+  [<img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical" height="160"](https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical
+) />
 </p>
 
 # Hi — I'm Emtiaz 👋  
