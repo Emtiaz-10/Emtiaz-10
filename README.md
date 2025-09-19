@@ -1,7 +1,6 @@
 <!-- PROFILE README for Emtiaz-10 -->
 <p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
-) />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
 </p>
 
 # Hi — I'm Emtiaz 👋  
@@ -19,12 +18,12 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-10&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-10&layout=compact&theme=radical" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-10&layout=compact&theme=radical&cache_seconds=1800" height="120" />
 </p>
 
 ---
@@ -44,9 +43,5 @@
 
 ---
 
-
-
----
-
 ### Final note  
-This README is my mirror: I’ll update it as I grow, one commit at a time. 🚀  
+This README is my mirror: I’ll update it as I grow, one commit at a time. 🚀
