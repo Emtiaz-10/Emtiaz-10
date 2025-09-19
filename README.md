@@ -12,7 +12,7 @@
 - Harvard Python course (step by step).  
 - Supervised ML with Andrew Ng (Coursera).  
 - Statistics & Probability studies.  
-- Tutoring Class 9 (Math, Physics, Chemistry).  
+- Tutoring (Math, Physics, Chemistry).  
 
 ---
 
