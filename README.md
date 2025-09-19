@@ -43,16 +43,7 @@
 
 ---
 
-## 📣 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/emtiaz-ahmed-shawon-414842317/" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" width="30"/>
-  </a>
-</p>
+
 
 ---
 
