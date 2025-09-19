@@ -19,10 +19,6 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-iota-wheat-37.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats-iota-wheat-37.vercel.app/api/wakatime?username=Emtiaz-10&theme=radical&cache_seconds=1800" height="160" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-iota-wheat-37.vercel.app/api/top-langs/?username=Emtiaz-10&layout=compact&theme=radical&cache_seconds=1800" height="120" />
 </p>
 
