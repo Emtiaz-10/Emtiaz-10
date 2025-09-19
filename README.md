@@ -1,6 +1,6 @@
 <!-- PROFILE README for Emtiaz-10 -->
 <p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical" height="160"](https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical
+  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
 ) />
 </p>
 
