@@ -1,6 +1,6 @@
 <!-- PROFILE README for Emtiaz-10 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emtiaz-10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
 </p>
 
 # Hi — I'm Emtiaz 👋  
