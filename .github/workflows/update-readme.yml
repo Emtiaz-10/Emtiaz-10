@@ -1,0 +1,35 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at 00:00 UTC (adjust based on your timezone, e.g., +06 is 06:00)
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update README with stats
+        run: |
+          echo "Updating README stats..."
+          # This is a placeholder step; you can use a script or API to fetch new stats
+          # For now, it just commits a change to trigger a rebuild
+          date > update.txt
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add update.txt
+          git commit -m "Automated README stats update [$(date)]" || echo "No changes to commit"
+          git push
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "README update failed. Check the workflow logs."
