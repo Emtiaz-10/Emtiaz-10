@@ -39,12 +39,5 @@
 
 ---
 
-## 
-<p align="center">
-  <img src="[https://i.imgur.com/4Z8gZ3G.gif](https://th.bing.com/th/id/R.ef6d34fda4986bf89558714f06639d74?rik=gq4iFijaxhBHZQ&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f31800000%2fIron-Man-iron-man-3-31867824-500-400.gif&ehk=kLQ6UMgSSA5tnbSGK16lgky52ZvDVfVPF1gaSYShKR4%3d&risl=&pid=ImgRaw&r=0)" alt="Glowing Eyes Animation" width="100" />
-</p>
-
----
-
 ### Final Note
 This README is a living reflection of my journey. I’ll keep it updated as I grow, one commit at a time. 🚀
