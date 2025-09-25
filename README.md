@@ -1,6 +1,6 @@
 <!-- PROFILE README for Emtiaz-10 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&cache_seconds=1800" alt="Emtiaz-10's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Emtiaz-10's GitHub stats" height="160" />
 </p>
 
 # Hi — I'm Emtiaz 👋
@@ -18,8 +18,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&cache_seconds=1800" alt="Emtiaz-10's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-10&layout=compact&theme=radical&cache_seconds=1800&langs_count=6" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Emtiaz-10's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-10&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&langs_count=6" alt="Top Languages" height="160" />
 </p>
 
 ---
@@ -39,32 +39,10 @@
 
 ---
 
-## 👁️ Glowing Eyes Animation
+## 
 <p align="center">
-  <div style="position: relative; display: inline-block; width: 200px; height: 100px;">
-    <div class="eye" style="position: absolute; left: 30px; top: 20px;"></div>
-    <div class="eye" style="position: absolute; right: 30px; top: 20px;"></div>
-  </div>
+  <img src="https://i.imgur.com/4Z8gZ3G.gif" alt="Glowing Eyes Animation" width="100" />
 </p>
-
-<style>
-  .eye {
-    width: 40px;
-    height: 40px;
-    background-color: #333;
-    border-radius: 50%;
-    box-shadow: 0 0 10px 5px rgba(255, 0, 0, 0.7);
-    animation: pulse 1.5s infinite alternate;
-  }
-  @keyframes pulse {
-    0% {
-      box-shadow: 0 0 10px 5px rgba(255, 0, 0, 0.7);
-    }
-    100% {
-      box-shadow: 0 0 20px 15px rgba(255, 0, 0, 1);
-    }
-  }
-</style>
 
 ---
 
