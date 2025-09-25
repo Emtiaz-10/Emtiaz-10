@@ -1,7 +1,4 @@
 <!-- PROFILE README for Emtiaz-10 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-10&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Emtiaz-10's GitHub stats" height="160" />
-</p>
 
 # Hi — I'm Emtiaz 👋  
 **AI & ML Enthusiast • Python Developer • Student Tutor • Builder in Progress**
