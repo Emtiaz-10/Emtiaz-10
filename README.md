@@ -40,4 +40,15 @@
 ---
 
 ### Final Note
-This README is a living reflection of my journey. I’ll keep it updated as I grow, one commit at a time. 🚀
+🚧 **GitHub Under Construction** 🚧  
+⚠️ **Updates in Progress – Like My Life!** ⚠️  
+
+🔧 Major Updates Happening in the Background...  
+🔨 Building Better Code, Better Skills, Better Life!  
+👷‍♂️ Construction Zone: New Features Coming Soon  
+
+**Please Excuse the Mess – Progress is Underway!**  
+👀 I’m busy coding and learning, please check back later!  
+
+🚧 **Pardon the glitches, my brain is under construction too!**  
+⚡ Life updates happening faster than my commits!
