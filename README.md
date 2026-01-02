@@ -36,6 +36,14 @@
 
 ---
 
+## 📚 Learning Resources & Inspiration
+- **[100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)** - A curated guide to learn Machine Learning in 100 days
+  - Comprehensive ML learning path
+  - Hands-on coding challenges
+  - Real-world ML applications
+
+---
+
 ### Final Note
 🚧 **GitHub Under Construction** 🚧  
 ⚠️ **Updates in Progress – Like My Life!** ⚠️  
