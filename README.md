@@ -6,8 +6,8 @@
 ---
 
 ## 🔭 Current Focus
-- Completing Harvard's CS50 Python course.
-- Studying Supervised Machine Learning with Andrew Ng (Coursera).
+- Completed Harvard's CS50 Python course.
+- Supervised Machine Learning with Andrew Ng (Coursera).
 - Deepening knowledge in Statistics & Probability.
 - Tutoring students in Math, Physics, and Chemistry.
 
